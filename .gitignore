@@ -1,0 +1,5 @@
+*.pdf
+*.bin
+*.gguf
+*.faiss
+*.pkl
